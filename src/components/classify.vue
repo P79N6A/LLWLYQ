@@ -1,6 +1,6 @@
 <template>
     <div class="classify.vue">
-        购物车：{{msg}}
+        diudiudiua：{{msg}}
     </div>
 </template>
 
